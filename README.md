@@ -1,2 +1,5 @@
-# Haathi Mera Saathi Workshop Kids Code
-These are code from the Haathi Mera Saathi series of workshops conducted at Amritapuri on September
+# AMMACHI Labs Computational Thinking Workshop 2015 Student Projects
+AMMACHI labs, Amrita University hosted students hailing from Meghalaya and the tribal hamlets of Idukki and Attapadi (Kerala) for a week long workshop on digital literacy, computational thinking and game designing. The computational thinking workshop had two modules, the first one revolved around the Haathi Mera Saathi boardgame [1] to introduce computing principles and create a gentle rampup towards programming, and the second module involved introducing programming in the Java based Processing environment. This respository contains code created by the children with the folder names reflecting their names. No effort was spent in tidying up the contents of the folders to maintain them into posterity the way the children created them. The hope is that one day they will accidentally stumble upon these creations of theirs. Descriptions of the projects and possibly the pics as well will be reflected in this document soon.
+
+References -
+[1] Unnikrishnan, R., et al. "Of Elephants and Nested Loops: How to Introduce Computing to Youth in Rural India." Proceedings of the The 15th International Conference on Interaction Design and Children. ACM, 2016.
